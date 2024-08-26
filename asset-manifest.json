@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/car/static/css/main.233c7bc3.css",
+    "main.js": "/car/static/js/main.d9d092d4.js",
+    "static/media/car2.JPEG": "/car/static/media/car2.ce5b678d5b8501836f44.JPEG",
+    "static/media/background.jpg": "/car/static/media/background.d358b9b8dc44864d6aac.jpg",
+    "static/media/IRANBlack.woff": "/car/static/media/IRANBlack.908bb4bcdee67e80f17c.woff",
+    "static/media/about-img.png": "/car/static/media/about-img.1569b76e9956926da800.png",
+    "static/media/Anjoman-Black.woff": "/car/static/media/Anjoman-Black.f1f0b496d4b3889a6ebf.woff",
+    "static/media/aftab-car.webp": "/car/static/media/aftab-car.c0a5543a6b1d2522ca5d.webp",
+    "static/media/dana-black.woff": "/car/static/media/dana-black.7602a34b438a40a3995a.woff",
+    "static/media/car-shadow.png": "/car/static/media/car-shadow.b327cc0e75e1f386cf3f.png",
+    "static/media/IRANSansOnlyNumeral.woff": "/car/static/media/IRANSansOnlyNumeral.9c9dde1acddf21e5b7eb.woff",
+    "index.html": "/car/index.html",
+    "main.233c7bc3.css.map": "/car/static/css/main.233c7bc3.css.map",
+    "main.d9d092d4.js.map": "/car/static/js/main.d9d092d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.233c7bc3.css",
+    "static/js/main.d9d092d4.js"
+  ]
+}
