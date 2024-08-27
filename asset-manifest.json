@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/car/static/css/main.3c15fa9c.css",
-    "main.js": "/car/static/js/main.6a6f3039.js",
+    "main.css": "/car/static/css/main.096ea46e.css",
+    "main.js": "/car/static/js/main.05682b0f.js",
     "static/media/car2.JPEG": "/car/static/media/car2.ce5b678d5b8501836f44.JPEG",
     "static/media/background.jpg": "/car/static/media/background.d358b9b8dc44864d6aac.jpg",
     "static/media/IRANBlack.woff": "/car/static/media/IRANBlack.908bb4bcdee67e80f17c.woff",
@@ -12,11 +12,11 @@
     "static/media/car-shadow.png": "/car/static/media/car-shadow.b327cc0e75e1f386cf3f.png",
     "static/media/IRANSansOnlyNumeral.woff": "/car/static/media/IRANSansOnlyNumeral.9c9dde1acddf21e5b7eb.woff",
     "index.html": "/car/index.html",
-    "main.3c15fa9c.css.map": "/car/static/css/main.3c15fa9c.css.map",
-    "main.6a6f3039.js.map": "/car/static/js/main.6a6f3039.js.map"
+    "main.096ea46e.css.map": "/car/static/css/main.096ea46e.css.map",
+    "main.05682b0f.js.map": "/car/static/js/main.05682b0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c15fa9c.css",
-    "static/js/main.6a6f3039.js"
+    "static/css/main.096ea46e.css",
+    "static/js/main.05682b0f.js"
   ]
 }
